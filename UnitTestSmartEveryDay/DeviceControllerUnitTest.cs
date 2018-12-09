@@ -127,6 +127,7 @@ namespace UnitTestSmartEveryDay
 
             Assert.IsNotNull(result);
         }
+
         [TestMethod]
         public void TurnLightOnOrOff()
         {
